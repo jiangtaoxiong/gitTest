@@ -1,0 +1,8 @@
+1.IP、DNS 服务器都设置为自动.
+2.执行 ipconfig /flushdns.
+3.重启浏览器即可.
+#before
+eg:http://192.168.199.132:8083/repository/maven-public/
+
+#after
+eg:http://idea-pc:8083/repository/maven-public/
